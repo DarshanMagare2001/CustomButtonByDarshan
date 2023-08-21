@@ -21,11 +21,11 @@ Pod::Spec.new do |s|
   'This pod helpful for customize buttons'
   DESC
   
-  s.homepage         = 'https://github.com/surajbhardwaj12/CustomButtonByDarshan'
+  s.homepage         = 'https://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@github.com/DarshanMagare2001/CustomButtonByDarshan.git'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'surajbhardwaj12' => 'darshanm.itpath@gmail.com' }
-  s.source           = { :git => 'https://github.com/surajbhardwaj12/CustomButtonByDarshan.git', :tag => s.version.to_s }
+  s.source           = { :git => 'https://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@github.com/DarshanMagare2001/CustomButtonByDarshan.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
   s.ios.deployment_target = '10.0'
   s.source_files = 'Classes/**/*.swift'
@@ -33,9 +33,7 @@ Pod::Spec.new do |s|
   s.platform = {
     "ios":"10.0"
   }
-  
-  
-  
+   
   # s.resource_bundles = {
   #   'CustomButtonByDarshan' => ['CustomButtonByDarshan/Assets/*.png']
   # }
