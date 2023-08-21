@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '10.0'
+
+target 'CustomButtonByDarshan_Example' do
+  pod 'CustomButtonByDarshan', :path => '../'
+
+  target 'CustomButtonByDarshan_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

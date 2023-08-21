@@ -1,0 +1,52 @@
+{
+  "_buildCommand2" : {
+    "command" : "prepareForIndexing",
+    "enableIndexBuildArena" : false,
+    "targets" : null
+  },
+  "buildCommand" : "build",
+  "configuredTargets" : [
+    {
+      "guid" : "bfdfe7dc352907fc980b868725387e9817ce0164dce110cdb2001a5d23463cee"
+    },
+    {
+      "guid" : "bfdfe7dc352907fc980b868725387e980e54d9f0ecbacd7c8246b1e7e6cf119c"
+    },
+    {
+      "guid" : "bfdfe7dc352907fc980b868725387e98a483679cb4160b7cce1414026caa73fe"
+    }
+  ],
+  "containerPath" : "/Users/Suraj/ITPath/Project/CustomButtonByDarshan/CustomButtonByDarshan/CustomButtonByDarshan/Example/Pods/Pods.xcodeproj",
+  "continueBuildingAfterErrors" : true,
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "build",
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "",
+      "buildProductsPath" : "",
+      "derivedDataPath" : "/Users/macos17/Library/Developer/Xcode/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/macos17/Library/Developer/Xcode/DerivedData/Pods-gmjtleopwzvomgggdwttnihnsjhl/Index/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/macos17/Library/Developer/Xcode/DerivedData/Pods-gmjtleopwzvomgggdwttnihnsjhl/Index/PrecompiledHeaders",
+      "pchPath" : ""
+    },
+    "configurationName" : "Release",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ENABLE_PREVIEWS" : "NO"
+        }
+      }
+    }
+  },
+  "qos" : "default",
+  "schemeCommand" : "launch",
+  "schemeCommand2" : "launch",
+  "shouldCollectMetrics" : false,
+  "showNonLoggedProgress" : true,
+  "useDryRun" : true,
+  "useImplicitDependencies" : false,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : false
+}

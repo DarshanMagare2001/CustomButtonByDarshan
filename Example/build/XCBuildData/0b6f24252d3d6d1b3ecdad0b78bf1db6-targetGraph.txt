@@ -1,0 +1,6 @@
+Target dependency graph (3 targets)
+CustomButtonByDarshan in Pods, no dependencies
+Pods-CustomButtonByDarshan_Example in Pods, depends on:
+CustomButtonByDarshan in Pods (explicit)
+Pods-CustomButtonByDarshan_Tests in Pods, depends on:
+Pods-CustomButtonByDarshan_Example in Pods (explicit)

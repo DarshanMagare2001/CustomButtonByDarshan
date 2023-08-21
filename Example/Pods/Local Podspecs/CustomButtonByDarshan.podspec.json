@@ -1,0 +1,22 @@
+{
+  "name": "CustomButtonByDarshan",
+  "version": "0.1.0",
+  "summary": "A short description of CustomButtonByDarshan.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/surajbhardwaj12/CustomButtonByDarshan",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "surajbhardwaj12": "darshanm.itpath@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/surajbhardwaj12/CustomButtonByDarshan.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "CustomButtonByDarshan/Classes/**/*"
+}

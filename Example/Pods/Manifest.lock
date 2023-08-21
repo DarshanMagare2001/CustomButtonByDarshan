@@ -1,0 +1,16 @@
+PODS:
+  - CustomButtonByDarshan (0.1.0)
+
+DEPENDENCIES:
+  - CustomButtonByDarshan (from `../`)
+
+EXTERNAL SOURCES:
+  CustomButtonByDarshan:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  CustomButtonByDarshan: 78c9ef19713fbc6dd54878250a68146e17d4660c
+
+PODFILE CHECKSUM: 7efa81d5e75a1658f3ba1354adac9b5a632e4f4c
+
+COCOAPODS: 1.11.2
